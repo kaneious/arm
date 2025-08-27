@@ -24,8 +24,7 @@ export default function HeroContent() {
             className="text-8xl md:text-9xl tracking-tight text-white mb-8"
             style={{ fontFamily: "NeueMachina-Bold, monospace" }}
           >
-            <span className="text-blue-400">ex1t</span>
-            <span className="text-white">.cc</span>
+            <span className="text-white">ex1t.cc</span>
           </h1>
 
           <p
